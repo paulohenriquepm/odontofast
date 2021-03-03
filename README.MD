@@ -6,6 +6,7 @@ Esta aplicação foi criada como um trabalho na matéria de IHM, como parte fina
 ## :books: Requisitos
 - Ter [**Git**](https://git-scm.com/) para clonar o projeto.
 - Ter [**Node.js**](https://nodejs.org/en/) instalado.
+- Ter uma database mysql com o nome **odontofast**
 
 ## :rocket: Começando
 ``` bash
