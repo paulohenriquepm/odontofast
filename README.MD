@@ -1,5 +1,5 @@
 ## :page_with_curl: Sobre
-O devfinder é uma aplicação onde o cliente pode se cadastrar na plataforma para agendar suas consultas à dentistas.
+O odontofast é uma aplicação onde o cliente pode se cadastrar na plataforma para agendar suas consultas à dentistas.
 
 Esta aplicação foi criada como um trabalho na matéria de IHM, como parte final da Sprint
 
